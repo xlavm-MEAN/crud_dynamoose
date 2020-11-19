@@ -1,0 +1,16 @@
+{
+  "name": "crud_dynamoose",
+  "version": "1.0.0",
+  "description": "API in nodejs with dynamoose and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Luis Angel Vanegas Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "dynamoose": "^1.11.1",
+    "express": "^4.17.1"
+  }
+}
